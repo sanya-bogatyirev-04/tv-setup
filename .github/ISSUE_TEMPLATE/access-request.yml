@@ -1,0 +1,24 @@
+name: Запрос доступа
+description: Обсудить совместимость и возможность получить продукт
+title: "[Доступ] Платформа и сценарий"
+body:
+  - type: markdown
+    attributes:
+      value: "Это публичное обращение. Не указывайте персональные контакты, серийные номера, адреса устройств, пароли, ключи и логи. Заявка не предоставляет лицензию автоматически."
+  - type: dropdown
+    id: platform
+    attributes:
+      label: Платформа
+      options:
+        - Android TV / Google TV
+        - LG webOS
+        - Samsung Tizen
+    validations:
+      required: true
+  - type: textarea
+    id: requirements
+    attributes:
+      label: Требуемые функции и сценарий
+      description: Опишите желаемые возможности и версию ОС без частных данных.
+    validations:
+      required: true

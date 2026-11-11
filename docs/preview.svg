@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="700" viewBox="0 0 1200 700" role="img" aria-labelledby="title desc">
+  <title id="title">Концепт минималистичного главного экрана</title>
+  <desc id="desc">Три плитки: Lampa, TorrServe, Vimu. Ниже папка остальных приложений. Графитовый фон, бежевый текст и терракотовый акцент.</desc>
+  <rect width="1200" height="700" rx="24" fill="#262727"/>
+  <g font-family="Arial, sans-serif" fill="#E9DFCE">
+    <circle cx="56" cy="60" r="6" fill="#AD6049"/>
+    <text x="78" y="70" font-size="30" font-weight="700">Главный экран</text>
+    <rect x="980" y="38" width="170" height="48" rx="14" fill="#333434"/>
+    <text x="1065" y="69" font-size="17" text-anchor="middle">Настройки</text>
+    <text x="50" y="124" font-size="18" fill="#BCAE99">Любимые приложения — под рукой</text>
+    <rect x="50" y="174" width="350" height="230" rx="22" fill="#AD6049" stroke="#E9DFCE" stroke-width="3"/>
+    <rect x="425" y="174" width="350" height="230" rx="22" fill="#333434"/>
+    <rect x="800" y="174" width="350" height="230" rx="22" fill="#333434"/>
+    <circle cx="225" cy="251" r="28" fill="none" stroke="#E9DFCE" stroke-width="3"/>
+    <path d="M216 235 L240 251 L216 267 Z" fill="#E9DFCE"/>
+    <path d="M580 236 H620 V266 H580 Z M587 246 H613 M587 256 H607" fill="none" stroke="#E9DFCE" stroke-width="3"/>
+    <path d="M963 228 L997 250 L963 272 Z" fill="#E9DFCE"/>
+    <text x="225" y="341" font-size="27" text-anchor="middle">Lampa</text>
+    <text x="600" y="341" font-size="27" text-anchor="middle">TorrServe</text>
+    <text x="975" y="341" font-size="27" text-anchor="middle">Vimu</text>
+    <rect x="50" y="455" width="350" height="78" rx="18" fill="#333434"/>
+    <path d="M76 477 H95 L101 483 H121 V511 H76 Z" fill="none" stroke="#AD6049" stroke-width="3"/>
+    <text x="145" y="501" font-size="21">Остальные приложения</text>
+    <text x="50" y="616" font-size="17" fill="#BCAE99">Цвета · Порядок плиток · Размеры · Анимации</text>
+    <text x="50" y="661" font-size="13" fill="#BCAE99">Концепт интерфейса. Универсальная версия находится в разработке.</text>
+  </g>
+</svg>
